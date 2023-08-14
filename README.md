@@ -3,6 +3,12 @@ This GitHub repository showcases a straightforward PHP login system integrated w
 
 # How to use
 
+To clone this repository, use the following command:
+
+```
+git clone https://github.com/ab-muhammad-hamza/php-login-system.git
+```
+
 1. **Installing XAMPP:**
    - Download XAMPP from the official website (https://www.apachefriends.org/index.html) based on your operating system (Windows, macOS, Linux).
    - Run the installer and follow the on-screen instructions to install XAMPP.
@@ -32,12 +38,6 @@ This GitHub repository showcases a straightforward PHP login system integrated w
 
 By following these steps, you'll have XAMPP installed, running, a database created, and the "users.sql" file imported into phpMyAdmin. This will set up the environment for your PHP login system.
 Once thats done create a folder and clone this repository.
-
-To clone this repository, use the following command:
-
-```
-git clone https://github.com/ab-muhammad-hamza/php-login-system.git
-```
 
 ## Conneceting to Database
 
