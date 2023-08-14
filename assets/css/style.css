@@ -1,0 +1,30 @@
+.auth-body{ 
+    font: 14px sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, #0000009e, #2a2a2a7a), url(https://source.unsplash.com/256x256/?nature) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.wrapper{ 
+    width: 360px;
+    padding: 20px;
+}
+
+.auth-card{
+    background: #ffffffbf;
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+    margin:10px;
+}
+
+.form-group {
+    margin: 20px 0px;
+}
+
+.btn-auth {
+    width:100%;
+}
